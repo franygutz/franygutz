@@ -52,3 +52,31 @@ Here is a curated list of the code I'm most proud of:
 </p>
 
 </div>
+
+<br>
+
+### ❀ Let's Connect! 
+
+Feel free to reach out if you want to talk about code, share music recommendations, or just say hi! (✿◡‿◡)
+
+<div align="center">
+  <a href="mailto:franyadalilagutierrez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D18E8E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/franygutz">
+    <img src="https://img.shields.io/badge/Instagram-D18E8E?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@guitarclairo">
+    <img src="https://img.shields.io/badge/TikTok-D18E8E?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://linkedin.com/in/franygutz">
+    <img src="https://img.shields.io/badge/LinkedIn-D18E8E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <i>"Turning coffee and music into code"</i> ☕✨
+</div>

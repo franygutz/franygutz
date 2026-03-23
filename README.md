@@ -15,7 +15,9 @@
 ### ❀ About Me
 
 ✧ **Currently studying:** Software Engineering at UAM.
+
 ✧ **Tech stack:** Mainly Java, Python, C#, and HTML. 
+
 ✧ **My vibe:** I can´t code without my music. 
 
 <br>

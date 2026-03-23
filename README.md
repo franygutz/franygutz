@@ -1,47 +1,51 @@
-# See through Franya ╰(*°▽°*)╯
+<div align="center">
+  
+# ˚ʚ♡ɞ˚ Hi, I'm Franya! ˚ʚ♡ɞ˚
 
-A passionate developer from Nicaragua 🇳🇮, currently focused on software development and data structures. *ISTP girlie (～￣▽￣)～*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1000&color=D18E8E&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Crafting+clean+%26+smart+code;ISTP+girlie+(%EF%BD%9E%E2%96%A3%E2%96%BD%E2%96%A3)%EF%BD%9E)](https://git.io/typing-svg)
 
----
-
-### 👩🏻‍💻 About Me
-
-- 🎓 Software engineering student.
-- 💻 Specialized in Python, C#, and Java solutions.
-- 🌱 Enhancing skills in advanced algorithms and systems design.
+*Based in Nicaragua 🇳🇮 | '07 Virgo* ︶꒦꒷♡꒷꒦︶
 
 ---
 
-### 🛠️ Tech Stack & Essential Tools
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
----
+### ❀ About Me
 
-### 📂 Feature Repositories
+✧ **Currently studying:** Software Engineering at UAM.
+✧ **Tech stack:** Mainly Java, Python, C#, and HTML. 
+✧ **My vibe:** I can´t code without my music. 
 
-Explore some of my favorite projects:
+<br>
 
-* 🌳 **[docUAM - Proyecto Final](https://github.com/franygutz/docUAM---Proyecto-Final):** Metadata manager in **Python**, implementing *binary trees* for efficiency.
-* 🧮 **[pyGauss](https://github.com/AndreEJA/pyGauss):** A linear algebra tool for vector and matrix operations.
-* 🚗 **[QR-Parking](https://github.com/franygutz/QR-Parking):** Management app developed in **C#**.
+### ❀ Featured Projects
 
----
+Here is a curated list of the code I'm most proud of:
 
-### 📊 Performance Landscape
+* 🎀 **[docUAM](https://github.com/franygutz/docUAM---Proyecto-Final):** A metadata manager built in Python implementing binary trees. 
+* 🎀 **[pyGauss](https://github.com/AndreEJA/pyGauss):** A linear algebra calculator for matrices, vectors, and equation systems.
+* 🎀 **[QR-Parking](https://github.com/franygutz/QR-Parking):** A parking management application created with C#.
+
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/franygutz/main/custom-github-stats.png" alt="Franya's Customized GitHub Stats Landscape" width="80%">
-</div>
 
----
+### ❀ My Tech Cosmos
+
+<p align="center">
+  <a href="https://github.com/franygutz">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=franygutz&langs_count=4&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  </a>
+</p>
+
+### ❀ Activity Pulse
+
+<p align="center">
+  <a href="https://github.com/franygutz">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=franygutz&bg_color=00000000&color=D18E8E&line=E8B4B8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
+
+</div>

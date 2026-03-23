@@ -63,6 +63,7 @@ Feel free to reach out if you want to talk about code, share music recommendatio
   <a href="mailto:franyadalilagutierrez@gmail.com">
     <img src="https://img.shields.io/badge/Email-D18E8E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/Discord:-franygutz-D18E8E?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   <a href="https://instagram.com/franygutz">
     <img src="https://img.shields.io/badge/Instagram-D18E8E?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>

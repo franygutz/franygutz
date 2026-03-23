@@ -51,7 +51,8 @@ Here is a curated list of the code I'm most proud of:
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franygutz&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=D18E8E&icon_color=D18E8E&text_color=E8B4B8&include_all_commits=true&count_private=true" alt="Fran's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franygutz&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&rank_icon=github&include_all_commits=true&line_height=21&custom_title=Total%20Lines%20of%20Code&title_color=D18E8E" alt="Lines of Code" />
+</p>
 </p>
 
 </div>

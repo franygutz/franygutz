@@ -2,9 +2,7 @@
   
 # ˚ʚ♡ɞ˚ Hello, World! ˚ʚ♡ɞ˚
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1000&color=D18E8E&center=true&vCenter=true&width=435&lines=I'm+Franya;Software+Engineering+Student;Crafting+clean+%26+smart+code;ISTP+girlie+(%EF%BD%9E%E2%96%A3%E2%96%BD%E2%96%A3)%EF%BD%9E)](https://git.io/typing-svg)
-
-*Based in Nicaragua 🇳🇮 | '07 Virgo* ︶꒦꒷♡꒷꒦︶
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1000&color=D18E8E&center=true&vCenter=true&width=435&lines=I+am+Franyaaaa+🍎;Software+Engineering+Student;Crafting+clean+%26+smart+code;ISTP+girlie+(%EF%BD%9E%E2%96%A3%E2%96%BD%E2%96%A3)%EF%BD%9E)](https://git.io/typing-svg)
 
 ---
 
@@ -14,13 +12,16 @@
 
 ### ❀ About Me
 
-✧ **Currently studying:** Software Engineering at UAM.
+✧ **Currently studying:** Software Engineering at UAM 💻🎓
 
-✧ **Tech stack:** Mainly Java, Python, C#, and HTML. 
+✧ **Tech stack:** <p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,cs,html&theme=light" alt="Mis lenguajes" />
+</p>
 
-✧ **My vibe:** I can´t code without my music. 
-
-<br>
+✧ **My vibe:** I can't code without my music 🎧🤍
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=15&pause=2000&color=D18E8E&vCenter=true&width=400&lines=🎵+Vibing+to+my+favorite+playlist...;🎧+Headphones+on,+world+off.;✨+Coding+%2B+Music+%3D+Magic" alt="Music Vibe" />
+</p>
 
 ### ❀ Featured Projects
 

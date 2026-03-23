@@ -43,12 +43,15 @@ Here is a curated list of the code I'm most proud of:
   </a>
 </p>
 
-### ❀ Activity Pulse
+### ❀ My Activity
 
 <p align="center">
   <a href="https://github.com/franygutz">
     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=franygutz&bg_color=00000000&color=D18E8E&line=E8B4B8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
   </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=franygutz&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=D18E8E&icon_color=D18E8E&text_color=E8B4B8&include_all_commits=true&count_private=true" alt="Fran's Stats" />
 </p>
 
 </div>

@@ -60,9 +60,7 @@ Here is a curated list of the code I'm most proud of:
 Feel free to reach out if you want to talk about code, share music recommendations, or just say hi! (✿◡‿◡)
 
 <div align="center">
-  <a href="mailto:franyadalilagutierrez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D18E8E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Email:-franyadalilagutierrez@gmail.com-D18E8E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   <img src="https://img.shields.io/badge/Discord:-franygutz-D18E8E?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   <a href="https://instagram.com/franygutz">
     <img src="https://img.shields.io/badge/Instagram-D18E8E?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
@@ -79,5 +77,5 @@ Feel free to reach out if you want to talk about code, share music recommendatio
 <br>
 
 <div align="center">
-  <i>"Turning coffee and music into code"</i> ☕✨
+  <i>"We can go wherever we want"</i> ✨
 </div>

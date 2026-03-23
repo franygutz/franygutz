@@ -19,9 +19,9 @@
 </p>
 
 ✧ **My vibe:** I can't code without my music 🎧🤍
-<p align="left">
-  <a href="https://open.spotify.com/user/31ndsc4nixm5k6z3jio76h5m4prm">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ndsc4nixm5k6z3jio76h5m4prm&cover_image=true&theme=novatide&bar_color=D18E8E&bar_color_cover=false" alt="Spotify" />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u6jfv1pk6x0001witso2ne0dc&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=d742c3&bar_color_cover=false">
   </a>
 </p>
 
@@ -53,9 +53,8 @@ Here is a curated list of the code I'm most proud of:
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franygutz&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=D18E8E&icon_color=D18E8E&text_color=E8B4B8&include_all_commits=true&count_private=true&show=reviews,discussions_answered,prs_merged,lines_of_code" alt="Total Lines" />
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-513k%20add%20--%20331k%20del-D18E8E?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 </div>
 
 <br>

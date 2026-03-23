@@ -49,7 +49,6 @@ Here is a curated list of the code I'm most proud of:
   <a href="https://github.com/franygutz">
     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=franygutz&bg_color=00000000&color=D18E8E&line=E8B4B8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tu_usuario_de_wakatime&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" alt="Wakatime Stats" />
 </p>
 
 </div>
@@ -64,7 +63,7 @@ Feel free to reach out if you want to talk about code, share music recommendatio
   <a href="mailto:franyadalilagutierrez@gmail.com">
     <img src="https://img.shields.io/badge/Email-D18E8E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/franygutz>
+  <a href="https://discord.com/users/franygutz">
     <img src="https://img.shields.io/badge/Discord:-D18E8E?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://instagram.com/franygutz">

@@ -69,7 +69,7 @@ Feel free to reach out if you want to talk about code, share music recommendatio
   <a href="https://tiktok.com/@guitarclairo">
     <img src="https://img.shields.io/badge/TikTok-D18E8E?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://linkedin.com/in/franya-gutiérrez-12b401325/">
+  <a href="https://linkedin.com/in/franygutz">
     <img src="https://img.shields.io/badge/LinkedIn-D18E8E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>

@@ -20,7 +20,9 @@
 
 ✧ **My vibe:** I can't code without my music 🎧🤍
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=15&pause=2000&color=D18E8E&vCenter=true&width=400&lines=🎵+Vibing+to+my+favorite+playlist...;🎧+Headphones+on,+world+off.;✨+Coding+%2B+Music+%3D+Magic" alt="Music Vibe" />
+  <a href="https://open.spotify.com/user/31ndsc4nixm5k6z3jio76h5m4prm">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ndsc4nixm5k6z3jio76h5m4prm&cover_image=true&theme=novatide&bar_color=D18E8E&bar_color_cover=false" alt="Spotify" />
+  </a>
 </p>
 
 ### ❀ Featured Projects
@@ -51,8 +53,7 @@ Here is a curated list of the code I'm most proud of:
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franygutz&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&rank_icon=github&include_all_commits=true&line_height=21&custom_title=Total%20Lines%20of%20Code&title_color=D18E8E" alt="Lines of Code" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=franygutz&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=D18E8E&icon_color=D18E8E&text_color=E8B4B8&include_all_commits=true&count_private=true&show=reviews,discussions_answered,prs_merged,lines_of_code" alt="Total Lines" />
 </p>
 
 </div>

@@ -52,9 +52,6 @@ Here is a curated list of the code I'm most proud of:
     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=franygutz&bg_color=00000000&color=D18E8E&line=E8B4B8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-513k%20add%20--%20331k%20del-D18E8E?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 </div>
 
 <br>

@@ -10,13 +10,13 @@
   <img src="https://img.shields.io/badge/Gmail-D18E8E?style=flat-square&logo=gmail&logoColor=white" />
 </a> 
 <a href="https://discord.com/users/franygutz">
-  <img src="https://img.shields.io/badge/Discord-D18E8E?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/franygutz-D18E8E?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
 </a> 
 <a href="https://instagram.com/franygutz">
-  <img src="https://img.shields.io/badge/Instagram-D18E8E?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/franygutz-D18E8E?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a> 
 <a href="https://tiktok.com/@guitarclairo">
-  <img src="https://img.shields.io/badge/Tiktok-D18E8E?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
+  <img src="https://img.shields.io/badge/guitarclairo-D18E8E?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a> 
 <a href="https://linkedin.com/in/franygutz">
   <img src="https://img.shields.io/badge/LinkedIn-D18E8E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />

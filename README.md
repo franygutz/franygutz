@@ -3,7 +3,7 @@
 
 <div align="left">
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=30%25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Franya+%F0%9F%92%97" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=normal25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Franya+%F0%9F%92%97" alt="Typing SVG" /></a>
 
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=franyadalilagutierrez@gmail.com" target="_blank"> 
@@ -29,7 +29,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=30%25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Currently+listening+to..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=normal25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Currently+listening+to..." alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=u6jfv1pk6x0001witso2ne0dc&redirect=true">
@@ -41,7 +41,7 @@
 
 ---
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=30%25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Me+as+a+wannabe+dev+%F0%9F%AB%A1" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=normal25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Me+as+a+wannabe+dev+%F0%9F%AB%A1" alt="Typing SVG" /></a>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,cs,cpp,html,css,javascript,django,flask,postgres,figma,vscode,visualstudio,idea&theme=light" height="25" />
 </div>

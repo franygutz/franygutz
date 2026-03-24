@@ -3,7 +3,7 @@
 # ˚ʚ♡ɞ˚ Hi, there! It's Fran ˚ʚ♡ɞ˚
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=10&color=D18E8E&center=true&vCenter=true&width=300&lines=❀+Get+to+know+more+about+me)
-<p>Software Engineering @ <a href="https://www.uam.edu.ni">UAM</a> 💻 | ISTP 🎀 | Virgo ♍| Nicaragua 🇳🇮</p>
+<p>Software Engineering at <a href="https://www.uam.edu.ni">UAM</a> 💻 | ISTP 🎀 | Virgo ♍ | Nicaragua </p>
 <!-- personalizado gracias a: https://github.com/kittinan/spotify-github-profile?tab=readme-ov-file-->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=u6jfv1pk6x0001witso2ne0dc&redirect=true">

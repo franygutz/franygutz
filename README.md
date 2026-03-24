@@ -25,6 +25,7 @@
   </tr>
 </table>
 <!--Aun no ha sido personalizado-->
+
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-Calculating...-D18E8E?style=flat-square) 
 <img src="https://skillicons.dev/icons?i=java,py,cs,cpp,html,css,javascript,django,flask,postgres,figma,vscode,visualstudio,idea&theme=light" height="25" />
 

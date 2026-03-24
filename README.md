@@ -3,8 +3,7 @@
 
 <div align="left">
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=normal25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Franya+%F0%9F%92%97" alt="Typing SVG" /></a>
-
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=normal25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Franya+%F0%9F%92%97" alt="Typing SVG" /></a>   
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=franyadalilagutierrez@gmail.com" target="_blank"> 
   <img src="https://img.shields.io/badge/Gmail-D18E8E?style=flat-square&logo=gmail&logoColor=white" />
@@ -24,7 +23,7 @@
 <br></br>
 
 <p>𝗡𝗶𝗰𝗲 𝘁𝗼 𝗺𝗲𝗲𝘁 𝘆𝗼𝘂! 𝗜 𝗮𝗺 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗮𝘁 <a href="https://www.uam.edu.ni">𝙐𝘼𝙈</a>, 𝗡𝗶𝗰𝗮𝗿𝗮𝗴𝘂𝗮.
-<br> 𝗜 𝗮𝗺 𝗮 𝗩𝗶𝗿𝗴𝗼 𝗮𝗻𝗱 𝘀𝗼𝗺𝗲𝘄𝗵𝗮𝘁 𝗼𝗳 𝗮𝗻 𝗜𝗦𝗧𝗣. 🎶 𝗜 𝗟𝗢𝗩𝗘 𝗺𝘂𝘀𝗶𝗰 🎶. </br>
+<br> 𝗜 𝗮𝗺 𝗮 𝗩𝗶𝗿𝗴𝗼 𝗮𝗻𝗱 𝘀𝗼𝗺𝗲𝘄𝗵𝗮𝘁 𝗼𝗳 𝗮𝗻 𝗜𝗦𝗧𝗣. 🎶 𝗜 𝗟𝗢𝗩𝗘 𝗺𝘂𝘀𝗶𝗰 🎶. </br> 
 </p>
 
 ---
@@ -56,3 +55,7 @@
     </td>
   </tr>
 </table>
+<div align="center"><img 
+    src="https://komarev.com/ghpvc/?username=franygutz&label=Profile%20views&style=for-the-badge&color=da5da4"
+    alt="Profile views"
+  /></div>

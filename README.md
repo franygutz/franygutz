@@ -40,7 +40,7 @@
 
 ---
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=normal25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Me+as+a+wannabe+dev+%F0%9F%AB%A1" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&letterSpacing=normal25&pause=1000&color=F70000&vCenter=true&repeat=false&width=435&lines=Me+as+a+dev+wannabe+%F0%9F%AB%A1" alt="Typing SVG" /></a>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,cs,cpp,html,css,javascript,django,flask,postgres,figma,vscode,visualstudio,idea&theme=light" height="25" />
 </div>
